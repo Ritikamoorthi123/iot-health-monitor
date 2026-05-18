@@ -1,6 +1,6 @@
 # IoT Health Monitor
 
-Machine learning based preeclampsia risk prediction system using IoT sensors and Flask.
+Flask web application for predicting preeclampsia risk using patient health parameters and a Decision Tree machine learning model.
 
 ## Features
 - Predicts preeclampsia risk
